@@ -1,0 +1,7 @@
+*_binary
+.DS_Store
+__pycache__/
+# Personal library data and logs
+*.json
+*.log
+CLAUDE.md
